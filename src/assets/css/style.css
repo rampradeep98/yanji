@@ -1,0 +1,279 @@
+@font-face {
+  font-family: customFont;
+  src: url("../fonts/5.otf");
+}
+.fp-warning,
+.fp-watermark {
+  display: none !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+.card {
+  border: none;
+}
+
+.welcome-section {
+  min-height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+.welcome-section .confetti-top-bg {
+  padding-top: 25px;
+  padding-bottom: 100px;
+}
+.welcome-section .confetti-top-bg h3 {
+  text-align: center;
+  font-size: 4rem;
+  font-family: "customFont";
+  background: white;
+}
+.welcome-section .confetti-top-bg h3 span {
+  color: goldenrod;
+}
+.welcome-section .confetti-top-bg h6 {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 650;
+}
+
+.first-section {
+  min-height: 100vh;
+  margin-bottom: 100px;
+}
+.first-section .kavithai-sec {
+  position: relative;
+}
+.first-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.first-section .kavithai_image {
+  width: 100%;
+}
+.first-section .kavithai {
+  text-align: center;
+  font-size: 16px;
+  font-weight: 650;
+}
+.first-section .angel {
+  position: absolute;
+  width: 29%;
+  top: 30%;
+  left: 37%;
+}
+.first-section p {
+  font-size: 1rem;
+}
+.first-section p b {
+  font-weight: bold;
+}
+.first-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.first-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.first-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+
+.second-section {
+  min-height: 100vh;
+}
+.second-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.second-section img {
+  width: 300px;
+  margin: auto;
+  margin-bottom: 50px;
+}
+.second-section p {
+  font-size: 1rem;
+}
+.second-section p b {
+  font-weight: bold;
+}
+.second-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.second-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.second-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+
+.third-section {
+  min-height: 100vh;
+}
+.third-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.third-section img {
+  width: 150px;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: -25px;
+}
+.third-section p {
+  font-size: 1rem;
+}
+.third-section p b {
+  font-weight: bold;
+}
+.third-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.third-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.third-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+
+.fourth-section {
+  min-height: 100vh;
+}
+.fourth-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.fourth-section img {
+  width: 150px;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: -25px;
+}
+.fourth-section p {
+  font-size: 1rem;
+}
+.fourth-section p b {
+  font-weight: bold;
+}
+.fourth-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.fourth-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.fourth-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+
+.fifth-section {
+  min-height: 100vh;
+}
+.fifth-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.fifth-section img {
+  width: 70%;
+  margin-bottom: 50px;
+  margin-top: -25px;
+  margin: auto;
+}
+.fifth-section p {
+  font-size: 1rem;
+}
+.fifth-section p b {
+  font-weight: bold;
+}
+.fifth-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.fifth-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.fifth-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+
+.sixth-section {
+  min-height: 100vh;
+  background-position: top bottom;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+.sixth-section h3 {
+  font-size: 3rem;
+  font-weight: bold;
+}
+.sixth-section img {
+  width: 150px;
+  margin-bottom: 50px;
+  margin: auto;
+  margin-top: 150px;
+}
+.sixth-section .birthday-section {
+  text-align: center;
+}
+.sixth-section p {
+  font-size: 1rem;
+}
+.sixth-section p b {
+  font-weight: bold;
+}
+.sixth-section p span.emp {
+  font-weight: bold;
+  text-decoration: underline;
+  color: darkgoldenrod;
+}
+.sixth-section p span.highgrey {
+  font-weight: bold;
+  margin-left: 5px;
+}
+.sixth-section p span.madhu {
+  font-weight: bold;
+  text-shadow: 1px 0px 2px #000000;
+  color: gold;
+}
+.sixth-section .bdaywishes {
+  font-size: 24px;
+}
+.sixth-section .bdaywishes span {
+  color: red;
+}
+.sixth-section .copy-right {
+  color: bisque;
+}
+
+@media only screen and (max-width: 600px) {
+  .first-section .angel {
+    position: absolute;
+    width: 29%;
+    top: 16%;
+    left: 35%;
+  }
+}/*# sourceMappingURL=style.css.map */
